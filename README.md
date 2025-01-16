@@ -1,5 +1,5 @@
 
-![Leonardo_Phoenix_10_A_professional_and_modern_illustration_sho_1(1)](https://github.com/user-attachments/assets/fd3ce793-4b35-4cac-8314-d1905b224260)
+![Leonardo_Phoenix_10_A_professional_and_modern_illustration_sho_1(2)(1)](https://github.com/user-attachments/assets/14fcd932-7ed4-478f-b308-fc93787533be)
 
 
 How to Install Kasm Workspaces on Proxmox: A Step-by-Step Guide
